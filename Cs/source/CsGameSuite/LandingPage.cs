@@ -15,6 +15,8 @@ namespace CsGameSuite
         public LandingPage()
         {
             InitializeComponent();
+
+            
         }
     }
 }
