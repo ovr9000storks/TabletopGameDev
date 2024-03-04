@@ -29,6 +29,72 @@ namespace CsGameSuite
         public LandingPage()
         {
             InitializeComponent();
+            InitializeUI();
+        }
+
+        private void InitializeUI()
+        {
+            //Top nav menu
+
+            //Singleplayer games
+
+            SolitaireOption.GameName = "SOLITAIRE";
+            SolitaireOption.HighScore = -1;
+            SolitaireOption.TimePlayed = TimeSpan.FromSeconds(-1);
+
+            BlackjackOption.GameName = "BLACKJACK";
+            BlackjackOption.HighScore = -1;
+            BlackjackOption.TimePlayed = TimeSpan.FromSeconds(-1);
+
+            TetrisOption.GameName = "TETRIS";
+            TetrisOption.HighScore = -1;
+            TetrisOption.TimePlayed = TimeSpan.FromSeconds(-1);
+
+            SodokuOption.GameName = "SODOKU";
+            SodokuOption.HighScore = -1;
+            SodokuOption.TimePlayed = TimeSpan.FromSeconds(-1);
+
+            NonogramOption.GameName = "NONOGRAMS";
+            NonogramOption.HighScore = -1;
+            NonogramOption.TimePlayed = TimeSpan.FromSeconds(-1);
+
+            BreakoutOption.GameName = "BREAKOUT";
+            BreakoutOption.HighScore = -1;
+            BreakoutOption.TimePlayed = TimeSpan.FromSeconds(-1);
+
+            MineSweeperOption.GameName = "MINE SWEEPER";
+            MineSweeperOption.HighScore = -1;
+            MineSweeperOption.TimePlayed = TimeSpan.FromSeconds(-1);
+
+            Game2048Option.GameName = "2048";
+            Game2048Option.HighScore = -1;
+            Game2048Option.TimePlayed = TimeSpan.FromSeconds(-1);
+
+            SimonSaysOption.GameName = "SIMON SAYS";
+            SimonSaysOption.HighScore = -1;
+            SimonSaysOption.TimePlayed = TimeSpan.FromSeconds(-1);
+
+            HanoiTowerOption.GameName = "TOWER OF HANOI";
+            HanoiTowerOption.HighScore = -1;
+            HanoiTowerOption.TimePlayed = TimeSpan.FromSeconds(-1);
+
+            //Multiplayer games
+
+            ChessOption.GameName = "CHESS";
+            ChessOption.HighScore = -1;
+            ChessOption.TimePlayed = TimeSpan.FromSeconds(-1);
+
+            CheckersOption.GameName = "CHECKERS";
+            CheckersOption.HighScore = -1;
+            CheckersOption.TimePlayed = TimeSpan.FromSeconds(-1);
+
+            BackgammonOption.GameName = "BACKGAMMON";
+            BackgammonOption.HighScore = -1;
+            BackgammonOption.TimePlayed = TimeSpan.FromSeconds(-1);
+
+            PaiShoOption.GameName = "PAI SHO";
+            PaiShoOption.HighScore = -1;
+            PaiShoOption.TimePlayed = TimeSpan.FromSeconds(-1);
         }
     }
 }

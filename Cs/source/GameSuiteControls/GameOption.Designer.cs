@@ -55,7 +55,7 @@
             this.StatsLabel.Name = "StatsLabel";
             this.StatsLabel.Size = new System.Drawing.Size(200, 50);
             this.StatsLabel.TabIndex = 1;
-            this.StatsLabel.Text = "Highscore: 0\r\nTime played: 0m";
+            this.StatsLabel.Text = "Highscore: --\r\nTime played: --";
             this.StatsLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             // 
             // GameOption
