@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsGameSuite", "CsGameSuite\CsGameSuite.csproj", "{1839C9F7-FBF5-4B9C-BE8B-B0961F7947F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameSuiteControls", "GameSuiteControls\GameSuiteControls.csproj", "{9389E37B-D1D5-4C20-9D18-D9A9D963F19C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1839C9F7-FBF5-4B9C-BE8B-B0961F7947F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1839C9F7-FBF5-4B9C-BE8B-B0961F7947F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1839C9F7-FBF5-4B9C-BE8B-B0961F7947F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9389E37B-D1D5-4C20-9D18-D9A9D963F19C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9389E37B-D1D5-4C20-9D18-D9A9D963F19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9389E37B-D1D5-4C20-9D18-D9A9D963F19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9389E37B-D1D5-4C20-9D18-D9A9D963F19C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+D:\dev\TabletopGameDev\Cs\source\GameSuiteControls\bin\Debug\GameSuiteControls.dll
+D:\dev\TabletopGameDev\Cs\source\GameSuiteControls\bin\Debug\GameSuiteControls.pdb
+D:\dev\TabletopGameDev\Cs\source\GameSuiteControls\obj\Debug\GameSuiteControls.csproj.AssemblyReference.cache
+D:\dev\TabletopGameDev\Cs\source\GameSuiteControls\obj\Debug\GameSuiteControls.GameOption.resources
+D:\dev\TabletopGameDev\Cs\source\GameSuiteControls\obj\Debug\GameSuiteControls.csproj.GenerateResource.cache
+D:\dev\TabletopGameDev\Cs\source\GameSuiteControls\obj\Debug\GameSuiteControls.csproj.CoreCompileInputs.cache
+D:\dev\TabletopGameDev\Cs\source\GameSuiteControls\obj\Debug\GameSuiteControls.dll
+D:\dev\TabletopGameDev\Cs\source\GameSuiteControls\obj\Debug\GameSuiteControls.pdb

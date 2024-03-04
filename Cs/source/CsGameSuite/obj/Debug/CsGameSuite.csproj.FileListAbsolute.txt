@@ -1,0 +1,13 @@
+D:\dev\TabletopGameDev\Cs\source\CsGameSuite\bin\Debug\CsGameSuite.exe.config
+D:\dev\TabletopGameDev\Cs\source\CsGameSuite\bin\Debug\CsGameSuite.exe
+D:\dev\TabletopGameDev\Cs\source\CsGameSuite\bin\Debug\CsGameSuite.pdb
+D:\dev\TabletopGameDev\Cs\source\CsGameSuite\obj\Debug\CsGameSuite.csproj.AssemblyReference.cache
+D:\dev\TabletopGameDev\Cs\source\CsGameSuite\obj\Debug\CsGameSuite.LandingPage.resources
+D:\dev\TabletopGameDev\Cs\source\CsGameSuite\obj\Debug\CsGameSuite.Properties.Resources.resources
+D:\dev\TabletopGameDev\Cs\source\CsGameSuite\obj\Debug\CsGameSuite.csproj.GenerateResource.cache
+D:\dev\TabletopGameDev\Cs\source\CsGameSuite\obj\Debug\CsGameSuite.csproj.CoreCompileInputs.cache
+D:\dev\TabletopGameDev\Cs\source\CsGameSuite\obj\Debug\CsGameSuite.exe
+D:\dev\TabletopGameDev\Cs\source\CsGameSuite\obj\Debug\CsGameSuite.pdb
+D:\dev\TabletopGameDev\Cs\source\CsGameSuite\bin\Debug\GameSuiteControls.dll
+D:\dev\TabletopGameDev\Cs\source\CsGameSuite\bin\Debug\GameSuiteControls.pdb
+D:\dev\TabletopGameDev\Cs\source\CsGameSuite\obj\Debug\CsGameSuite.csproj.CopyComplete
