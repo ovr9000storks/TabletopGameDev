@@ -45,6 +45,7 @@
             this.CheckersOption = new GameSuiteControls.GameOption();
             this.BackgammonOption = new GameSuiteControls.GameOption();
             this.PaiShoOption = new GameSuiteControls.GameOption();
+            this.FooterLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // MenuStrip
@@ -257,13 +258,25 @@
             this.PaiShoOption.TabIndex = 17;
             this.PaiShoOption.TimePlayed = System.TimeSpan.Parse("00:00:00");
             // 
+            // FooterLabel
+            // 
+            this.FooterLabel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(143)))), ((int)(((byte)(82)))), ((int)(((byte)(56)))));
+            this.FooterLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.FooterLabel.Location = new System.Drawing.Point(0, 1580);
+            this.FooterLabel.Name = "FooterLabel";
+            this.FooterLabel.Size = new System.Drawing.Size(1600, 100);
+            this.FooterLabel.TabIndex = 18;
+            this.FooterLabel.Text = "Andrew\'s Game Suite";
+            this.FooterLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
             // LandingPage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(69)))), ((int)(((byte)(143)))), ((int)(((byte)(75)))));
-            this.ClientSize = new System.Drawing.Size(1617, 961);
+            this.ClientSize = new System.Drawing.Size(1617, 2141);
+            this.Controls.Add(this.FooterLabel);
             this.Controls.Add(this.PaiShoOption);
             this.Controls.Add(this.BackgammonOption);
             this.Controls.Add(this.CheckersOption);
@@ -309,6 +322,7 @@
         private GameSuiteControls.GameOption CheckersOption;
         private GameSuiteControls.GameOption BackgammonOption;
         private GameSuiteControls.GameOption PaiShoOption;
+        private System.Windows.Forms.Label FooterLabel;
     }
 }
 
